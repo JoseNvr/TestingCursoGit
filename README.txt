@@ -10,3 +10,18 @@ es porque en ambas ramas se modificó el mismo archivo en la misma linea.
 Es una de las razones por las que da conflicto al merge ramas
 En codigo te aparece la parte que esta en cada rama, para que puedas modificar
 y seleccionar.
+
+
+Para subir los cambios al repositorio
+*Push ==>  subir los cambios locales al servidor remoto de git
+*Pull ==> descargar los cambios que hay en el servidor de git
+
+git push <servidorremoto> <ramaque se subira al server>
+
+git pull <servdor remoto> <rama que se quiere bajar>
+git pull origin master
+
+****************************************
+Para bajar(descargar) todas las ramas que hay en el server de git
+Command ==> git fetch --all
+
