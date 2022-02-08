@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
     <meta charset="utf-8"/>
-    <title>Pagina web HTML V6.0</title>
+    <title>Pagina web HTML </title>
   </head>
   <body>
     <h1>Index</h1>
@@ -14,9 +14,6 @@
 
     <p>Estamos testeando comando de GIT</p>
     <p>Parrafo mostrado desde index</p>
-<<<<<<< HEAD
-=======
-    <p> Texto agregado Cherry pick </p>
->>>>>>> 82ddd5a... Cambios en los todos los archivos
+    <p> Agregamos un parrafo mas al archivo </p>
   </body>
 </html>
